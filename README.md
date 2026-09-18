@@ -1,6 +1,6 @@
 <!-- HEADER BANNER AREA (LOCAL VECTOR SVG) -->
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Văn Hào Header Banner" />
+  <img src="https://raw.githubusercontent.com/Vanhaoqb146/Vanhaoqb146/main/assets/header.svg" width="100%" alt="Văn Hào Header Banner" />
 </div>
 
 <!-- TYPING ANIMATION & INTRO -->
@@ -227,5 +227,5 @@
 
 <!-- FOOTER BANNER (LOCAL VECTOR SVG) -->
 <div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Văn Hào Footer Banner" />
+  <img src="https://raw.githubusercontent.com/Vanhaoqb146/Vanhaoqb146/main/assets/footer.svg" width="100%" alt="Văn Hào Footer Banner" />
 </div>
