@@ -1,13 +1,13 @@
 <!-- HEADER BANNER AREA (LOCAL VECTOR SVG) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vanhaoqb146/Vanhaoqb146/main/assets/header.svg" width="100%" alt="Văn Hào Header Banner" />
+  <img src="https://raw.githubusercontent.com/Vanhaoqb146/Vanhaoqb146/main/assets/header.svg" width="100%" alt="Văn Hào - Lép Code AI Header Banner" />
 </div>
 
 <!-- TYPING ANIMATION & INTRO -->
 <div align="center">
 
   <a href="https://github.com/Vanhaoqb146">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&pause=1200&color=00F2FE&center=true&vCenter=true&width=650&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+V%C4%83n+H%C3%A0o+%F0%9F%91%8B;K%E1%BB%B9+s%C6%B0+Ph%E1%BA%A7n+m%E1%BB%81m+%E2%80%A2+Computer+Vision+%26+Web;Bi%E1%BA%BFn+%C3%BD+t%C6%B0%E1%BB%9Fng+th%C3%A0nh+gi%E1%BA%A3i+ph%C3%A1p+c%C3%B4ng+ngh%E1%BB%87+%C4%91%E1%BB%99t+ph%C3%A1;Ch%C3%A0o+m%E1%BB%ABng+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+GitHub+c%E1%BB%A7a+V%C4%83n+H%C3%A0o!+%E2%9C%A8" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00F2FE&center=true&vCenter=true&width=720&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+V%C4%83n+H%C3%A0o+-+L%C3%A9p+Code+AI+%F0%9F%91%8B;K%E1%BB%B9+s%C6%B0+Ph%E1%BA%A7n+m%E1%BB%81m+%E2%80%A2+Computer+Vision+%26+Web;Bi%E1%BA%BFn+%C3%BD+t%C6%B0%E1%BB%9Fng+th%C3%A0nh+gi%E1%BA%A3i+ph%C3%A1p+c%C3%B4ng+ngh%E1%BB%87+%C4%91%E1%BB%99t+ph%C3%A1;Ch%C3%A0o+m%E1%BB%ABng+b%E1%BA%A1n+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+L%C3%A9p+Code+AI!+%E2%9C%A8" alt="Typing Animation" />
   </a>
 
   <br/>
@@ -37,9 +37,9 @@
 <table border="0">
   <tr>
     <td width="60%" valign="top">
-      <h3>👨‍💻 Về Văn Hào (About Me)</h3>
+      <h3>👨‍💻 Về Văn Hào - Lép Code AI (About Me)</h3>
       <p>
-        Xin chào! Mình là <b>Văn Hào</b>, một lập trình viên đam mê kiến tạo các giải pháp phần mềm thông minh, tối ưu hiệu năng và giải quyết các bài toán thực tiễn trong đời sống lẫn vận hành doanh nghiệp.
+        Xin chào! Mình là <b>Văn Hào (Lép Code AI)</b>, một lập trình viên đam mê kiến tạo các giải pháp phần mềm thông minh, tối ưu hiệu năng và giải quyết các bài toán thực tiễn trong đời sống lẫn vận hành doanh nghiệp.
       </p>
       <ul>
         <li>🔭 <b>Lĩnh vực trọng tâm:</b> Phát triển phần mềm hệ thống, thị giác máy tính (Computer Vision/AI) và các nền tảng Web quản trị.</li>
@@ -49,7 +49,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" alt="Văn Hào Coding" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" alt="Văn Hào - Lép Code AI Coding" />
     </td>
   </tr>
 </table>
@@ -227,5 +227,5 @@
 
 <!-- FOOTER BANNER (LOCAL VECTOR SVG) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vanhaoqb146/Vanhaoqb146/main/assets/footer.svg" width="100%" alt="Văn Hào Footer Banner" />
+  <img src="https://raw.githubusercontent.com/Vanhaoqb146/Vanhaoqb146/main/assets/footer.svg" width="100%" alt="Văn Hào - Lép Code AI Footer Banner" />
 </div>

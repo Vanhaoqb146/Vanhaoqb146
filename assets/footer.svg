@@ -21,8 +21,8 @@
   <!-- Top Wave -->
   <path d="M0,25 C180,10 340,35 520,18 C700,5 840,30 950,20 L950,0 L0,0 Z" fill="url(#footerWave)"/>
 
-  <text x="475" y="62" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="600" font-size="14" fill="url(#footerTextGrad)" letter-spacing="1.5">
-    ⚡ Built with passion by VĂN HÀO (@Vanhaoqb146) • Open to Collaborate ⚡
+  <text x="475" y="62" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="600" font-size="13" fill="url(#footerTextGrad)" letter-spacing="1.5">
+    ⚡ Built with passion by VĂN HÀO - LÉP CODE AI (@Vanhaoqb146) • Open to Collaborate ⚡
   </text>
   <text x="475" y="82" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="400" font-size="11" fill="#64748B" letter-spacing="1">
     Thanks for visiting my GitHub Profile!

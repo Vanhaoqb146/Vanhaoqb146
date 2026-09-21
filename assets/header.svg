@@ -49,8 +49,8 @@
     .title-text {
       font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif;
       font-weight: 900;
-      font-size: 52px;
-      letter-spacing: 5px;
+      font-size: 38px;
+      letter-spacing: 3px;
     }
     .subtitle-text {
       font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
@@ -86,11 +86,11 @@
   <!-- Center Decorative Glow Line -->
   <line x1="120" y1="55" x2="830" y2="55" stroke="#1E293B" stroke-width="1" stroke-dasharray="6 6"/>
 
-  <!-- Main Name: VĂN HÀO -->
+  <!-- Main Name: VĂN HÀO - LÉP CODE AI -->
   <g id="main-title">
     <!-- Subtle drop shadow -->
-    <text x="475" y="125" text-anchor="middle" fill="#003B73" class="title-text" opacity="0.6">VĂN HÀO</text>
-    <text x="473" y="123" text-anchor="middle" fill="url(#textGrad)" class="title-text">VĂN HÀO</text>
+    <text x="475" y="125" text-anchor="middle" fill="#003B73" class="title-text" opacity="0.6">VĂN HÀO - LÉP CODE AI</text>
+    <text x="473" y="123" text-anchor="middle" fill="url(#textGrad)" class="title-text">VĂN HÀO - LÉP CODE AI</text>
   </g>
 
   <!-- Subtitle -->
